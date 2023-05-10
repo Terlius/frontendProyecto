@@ -1,0 +1,35 @@
+html,
+
+html {
+    display: table;
+    margin: auto;
+}
+body {
+   
+    vertical-align: middle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#login-page {
+   width: 500px;
+   margin: auto;
+}
+
+.show_errors {
+    color: red;
+    font-size: 12px;
+    font-weight: bold;
+}
+/*.card {
+/*      position: absolute;
+     left: 50%;
+     top: 50%;
+     -moz-transform: translate(-50%, -50%)
+     -webkit-transform: translate(-50%, -50%)
+     -ms-transform: translate(-50%, -50%)
+     -o-transform: translate(-50%, -50%)
+     transform: translate(-50%, -50%); */
+
